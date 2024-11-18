@@ -10,7 +10,7 @@ How-to
 
 2. Install PyGame from [here](http://www.pygame.org/download.shtml) or type pip install pygame on the terminal  
 
-3. Clone this repository: `git clone https://github.com/sourabhv/FlappyBirdClone.git` or click `Download ZIP` in right panel and extract it.
+3.For installing the game `Download ZIP` in right panel and extract it.
  
 4. Run `python flappy.py` from the repo's directory
 
